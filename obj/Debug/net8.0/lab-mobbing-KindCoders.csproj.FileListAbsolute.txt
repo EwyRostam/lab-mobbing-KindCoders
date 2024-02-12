@@ -1,0 +1,15 @@
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/bin/Debug/net8.0/lab-mobbing-KindCoders
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/bin/Debug/net8.0/lab-mobbing-KindCoders.deps.json
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/bin/Debug/net8.0/lab-mobbing-KindCoders.runtimeconfig.json
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/bin/Debug/net8.0/lab-mobbing-KindCoders.dll
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/bin/Debug/net8.0/lab-mobbing-KindCoders.pdb
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.AssemblyInfoInputs.cache
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.AssemblyInfo.cs
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.csproj.CoreCompileInputs.cache
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.sourcelink.json
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.dll
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/refint/lab-mobbing-KindCoders.dll
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.pdb
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/lab-mobbing-KindCoders.genruntimeconfig.cache
+/Users/salt-dev/salt/mobPractice/lab-mobbing-KindCoders/obj/Debug/net8.0/ref/lab-mobbing-KindCoders.dll
