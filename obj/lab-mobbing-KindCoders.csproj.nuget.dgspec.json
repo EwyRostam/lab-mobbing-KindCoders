@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ewyro\\salt\\Mob\\lab-mobbing-KindCoders\\lab-mobbing-KindCoders.csproj": {}
+    "/Users/salt-dev/Mondays/lab-mobbing-KindCoders/lab-mobbing-KindCoders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ewyro\\salt\\Mob\\lab-mobbing-KindCoders\\lab-mobbing-KindCoders.csproj": {
+    "/Users/salt-dev/Mondays/lab-mobbing-KindCoders/lab-mobbing-KindCoders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ewyro\\salt\\Mob\\lab-mobbing-KindCoders\\lab-mobbing-KindCoders.csproj",
+        "projectUniqueName": "/Users/salt-dev/Mondays/lab-mobbing-KindCoders/lab-mobbing-KindCoders.csproj",
         "projectName": "lab-mobbing-KindCoders",
-        "projectPath": "C:\\Users\\ewyro\\salt\\Mob\\lab-mobbing-KindCoders\\lab-mobbing-KindCoders.csproj",
-        "packagesPath": "C:\\Users\\ewyro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ewyro\\salt\\Mob\\lab-mobbing-KindCoders\\obj\\",
+        "projectPath": "/Users/salt-dev/Mondays/lab-mobbing-KindCoders/lab-mobbing-KindCoders.csproj",
+        "packagesPath": "/Users/salt-dev/.nuget/packages/",
+        "outputPath": "/Users/salt-dev/Mondays/lab-mobbing-KindCoders/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ewyro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/salt-dev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
