@@ -7,5 +7,5 @@ Console.WriteLine($"Your dog would be {int.Parse(dogYear) * 7} years old if he/s
 Console.WriteLine("How old are you and I will give your age in dog years");
 var humanYear = Console.ReadLine();
 Console.WriteLine($"You dog would be {int.Parse(humanYear) / 7} years old if you were a dog");
-
+Console.WriteLine("We are the best programmers salt has ever seen");
 
