@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-mobbing-KindCoders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b86a4acd883a619e19377799068e309871964568")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf198530b01f7af370ea6ca392afeddee94ebf05")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-mobbing-KindCoders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-mobbing-KindCoders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
